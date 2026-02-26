@@ -1,4 +1,4 @@
-##Introduction of Document
+
 The purpose of this system is to enable small organizations to manage their assets such as laptops, devices, tools, furniture, etc. The system ensures secure access through user roles (Admin, Manager, Viewer) and provides efficient features for asset tracking, updates, categorization, and reporting.
 #Scope (of the project)
 
